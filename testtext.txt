@@ -1,4 +1,10 @@
 Hello World.
+<<<<<<< HEAD
 Changes is same file Source ANNA
 This is my second edited line in the file.
 
+=======
+This is my second edited line in the file.
+
+Samecheges of sourcetree
+>>>>>>> e1404738a0d1647c6b3b8d5281780ebb835338e0
